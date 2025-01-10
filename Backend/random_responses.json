@@ -1,0 +1,452 @@
+[
+    {
+        "analysis": 58,
+        "sentiment": "Negative",
+        "metrics": {
+            "likesCount": 2769,
+            "commentsCount": 262,
+            "sharesCount": 24
+        }
+    },
+    {
+        "analysis": 43,
+        "sentiment": "Negative",
+        "metrics": {
+            "likesCount": 3887,
+            "commentsCount": 54,
+            "sharesCount": 47
+        }
+    },
+    {
+        "analysis": 74,
+        "sentiment": "Negative",
+        "metrics": {
+            "likesCount": 1630,
+            "commentsCount": 437,
+            "sharesCount": 14
+        }
+    },
+    {
+        "analysis": 75,
+        "sentiment": "Positive",
+        "metrics": {
+            "likesCount": 538,
+            "commentsCount": 447,
+            "sharesCount": 76
+        }
+    },
+    {
+        "analysis": 46,
+        "sentiment": "Positive",
+        "metrics": {
+            "likesCount": 3786,
+            "commentsCount": 47,
+            "sharesCount": 75
+        }
+    },
+    {
+        "analysis": 86,
+        "sentiment": "Positive",
+        "metrics": {
+            "likesCount": 787,
+            "commentsCount": 151,
+            "sharesCount": 38
+        }
+    },
+    {
+        "analysis": 12,
+        "sentiment": "Neutral",
+        "metrics": {
+            "likesCount": 4095,
+            "commentsCount": 0,
+            "sharesCount": 55
+        }
+    },
+    {
+        "analysis": 38,
+        "sentiment": "Negative",
+        "metrics": {
+            "likesCount": 2390,
+            "commentsCount": 177,
+            "sharesCount": 92
+        }
+    },
+    {
+        "analysis": 70,
+        "sentiment": "Neutral",
+        "metrics": {
+            "likesCount": 4103,
+            "commentsCount": 271,
+            "sharesCount": 42
+        }
+    },
+    {
+        "analysis": 62,
+        "sentiment": "Negative",
+        "metrics": {
+            "likesCount": 4004,
+            "commentsCount": 382,
+            "sharesCount": 68
+        }
+    },
+    {
+        "analysis": 59,
+        "sentiment": "Negative",
+        "metrics": {
+            "likesCount": 4328,
+            "commentsCount": 290,
+            "sharesCount": 73
+        }
+    },
+    {
+        "analysis": 8,
+        "sentiment": "Negative",
+        "metrics": {
+            "likesCount": 486,
+            "commentsCount": 352,
+            "sharesCount": 34
+        }
+    },
+    {
+        "analysis": 46,
+        "sentiment": "Neutral",
+        "metrics": {
+            "likesCount": 3484,
+            "commentsCount": 200,
+            "sharesCount": 91
+        }
+    },
+    {
+        "analysis": 12,
+        "sentiment": "Neutral",
+        "metrics": {
+            "likesCount": 484,
+            "commentsCount": 240,
+            "sharesCount": 41
+        }
+    },
+    {
+        "analysis": 11,
+        "sentiment": "Negative",
+        "metrics": {
+            "likesCount": 1517,
+            "commentsCount": 285,
+            "sharesCount": 97
+        }
+    },
+    {
+        "analysis": 28,
+        "sentiment": "Negative",
+        "metrics": {
+            "likesCount": 1183,
+            "commentsCount": 291,
+            "sharesCount": 31
+        }
+    },
+    {
+        "analysis": 46,
+        "sentiment": "Neutral",
+        "metrics": {
+            "likesCount": 213,
+            "commentsCount": 127,
+            "sharesCount": 5
+        }
+    },
+    {
+        "analysis": 74,
+        "sentiment": "Negative",
+        "metrics": {
+            "likesCount": 4549,
+            "commentsCount": 9,
+            "sharesCount": 99
+        }
+    },
+    {
+        "analysis": 59,
+        "sentiment": "Positive",
+        "metrics": {
+            "likesCount": 1214,
+            "commentsCount": 212,
+            "sharesCount": 8
+        }
+    },
+    {
+        "analysis": 44,
+        "sentiment": "Neutral",
+        "metrics": {
+            "likesCount": 2744,
+            "commentsCount": 340,
+            "sharesCount": 16
+        }
+    },
+    {
+        "analysis": 10,
+        "sentiment": "Neutral",
+        "metrics": {
+            "likesCount": 1613,
+            "commentsCount": 324,
+            "sharesCount": 37
+        }
+    },
+    {
+        "analysis": 62,
+        "sentiment": "Neutral",
+        "metrics": {
+            "likesCount": 2072,
+            "commentsCount": 429,
+            "sharesCount": 31
+        }
+    },
+    {
+        "analysis": 61,
+        "sentiment": "Negative",
+        "metrics": {
+            "likesCount": 4456,
+            "commentsCount": 497,
+            "sharesCount": 49
+        }
+    },
+    {
+        "analysis": 86,
+        "sentiment": "Neutral",
+        "metrics": {
+            "likesCount": 3832,
+            "commentsCount": 458,
+            "sharesCount": 29
+        }
+    },
+    {
+        "analysis": 45,
+        "sentiment": "Positive",
+        "metrics": {
+            "likesCount": 3696,
+            "commentsCount": 127,
+            "sharesCount": 18
+        }
+    },
+    {
+        "analysis": 30,
+        "sentiment": "Negative",
+        "metrics": {
+            "likesCount": 1421,
+            "commentsCount": 123,
+            "sharesCount": 6
+        }
+    },
+    {
+        "analysis": 41,
+        "sentiment": "Negative",
+        "metrics": {
+            "likesCount": 4881,
+            "commentsCount": 463,
+            "sharesCount": 82
+        }
+    },
+    {
+        "analysis": 69,
+        "sentiment": "Neutral",
+        "metrics": {
+            "likesCount": 653,
+            "commentsCount": 442,
+            "sharesCount": 26
+        }
+    },
+    {
+        "analysis": 13,
+        "sentiment": "Positive",
+        "metrics": {
+            "likesCount": 3045,
+            "commentsCount": 274,
+            "sharesCount": 54
+        }
+    },
+    {
+        "analysis": 2,
+        "sentiment": "Neutral",
+        "metrics": {
+            "likesCount": 1065,
+            "commentsCount": 193,
+            "sharesCount": 80
+        }
+    },
+    {
+        "analysis": 38,
+        "sentiment": "Positive",
+        "metrics": {
+            "likesCount": 2607,
+            "commentsCount": 460,
+            "sharesCount": 86
+        }
+    },
+    {
+        "analysis": 73,
+        "sentiment": "Positive",
+        "metrics": {
+            "likesCount": 1118,
+            "commentsCount": 182,
+            "sharesCount": 5
+        }
+    },
+    {
+        "analysis": 49,
+        "sentiment": "Neutral",
+        "metrics": {
+            "likesCount": 3642,
+            "commentsCount": 217,
+            "sharesCount": 78
+        }
+    },
+    {
+        "analysis": 31,
+        "sentiment": "Neutral",
+        "metrics": {
+            "likesCount": 4386,
+            "commentsCount": 198,
+            "sharesCount": 20
+        }
+    },
+    {
+        "analysis": 83,
+        "sentiment": "Neutral",
+        "metrics": {
+            "likesCount": 1395,
+            "commentsCount": 457,
+            "sharesCount": 89
+        }
+    },
+    {
+        "analysis": 93,
+        "sentiment": "Negative",
+        "metrics": {
+            "likesCount": 3692,
+            "commentsCount": 141,
+            "sharesCount": 98
+        }
+    },
+    {
+        "analysis": 21,
+        "sentiment": "Negative",
+        "metrics": {
+            "likesCount": 2827,
+            "commentsCount": 183,
+            "sharesCount": 97
+        }
+    },
+    {
+        "analysis": 86,
+        "sentiment": "Positive",
+        "metrics": {
+            "likesCount": 1397,
+            "commentsCount": 144,
+            "sharesCount": 65
+        }
+    },
+    {
+        "analysis": 99,
+        "sentiment": "Positive",
+        "metrics": {
+            "likesCount": 2093,
+            "commentsCount": 497,
+            "sharesCount": 90
+        }
+    },
+    {
+        "analysis": 50,
+        "sentiment": "Neutral",
+        "metrics": {
+            "likesCount": 1130,
+            "commentsCount": 483,
+            "sharesCount": 41
+        }
+    },
+    {
+        "analysis": 56,
+        "sentiment": "Positive",
+        "metrics": {
+            "likesCount": 2567,
+            "commentsCount": 150,
+            "sharesCount": 4
+        }
+    },
+    {
+        "analysis": 59,
+        "sentiment": "Neutral",
+        "metrics": {
+            "likesCount": 2170,
+            "commentsCount": 360,
+            "sharesCount": 91
+        }
+    },
+    {
+        "analysis": 30,
+        "sentiment": "Neutral",
+        "metrics": {
+            "likesCount": 821,
+            "commentsCount": 353,
+            "sharesCount": 7
+        }
+    },
+    {
+        "analysis": 71,
+        "sentiment": "Positive",
+        "metrics": {
+            "likesCount": 668,
+            "commentsCount": 384,
+            "sharesCount": 93
+        }
+    },
+    {
+        "analysis": 4,
+        "sentiment": "Negative",
+        "metrics": {
+            "likesCount": 3493,
+            "commentsCount": 266,
+            "sharesCount": 88
+        }
+    },
+    {
+        "analysis": 63,
+        "sentiment": "Negative",
+        "metrics": {
+            "likesCount": 84,
+            "commentsCount": 284,
+            "sharesCount": 71
+        }
+    },
+    {
+        "analysis": 20,
+        "sentiment": "Negative",
+        "metrics": {
+            "likesCount": 1268,
+            "commentsCount": 112,
+            "sharesCount": 73
+        }
+    },
+    {
+        "analysis": 71,
+        "sentiment": "Positive",
+        "metrics": {
+            "likesCount": 2099,
+            "commentsCount": 152,
+            "sharesCount": 16
+        }
+    },
+    {
+        "analysis": 99,
+        "sentiment": "Neutral",
+        "metrics": {
+            "likesCount": 3428,
+            "commentsCount": 165,
+            "sharesCount": 51
+        }
+    },
+    {
+        "analysis": 26,
+        "sentiment": "Positive",
+        "metrics": {
+            "likesCount": 4609,
+            "commentsCount": 25,
+            "sharesCount": 36
+        }
+    }
+]

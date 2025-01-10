@@ -1,0 +1,9 @@
+# filepath: /d:/DELL XPS Backup Bishal/Bishal/ANAIS 2024/Hackathon/requirements.txt
+flask
+torch
+torch-geometric
+sentence-transformers
+deep-translator
+langdetect
+google-transliteration-api
+einops

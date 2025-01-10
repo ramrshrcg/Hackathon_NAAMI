@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Futuristic Content Simulator</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="slogan-box">
+        <h1>"Engage Smarter, Not Harder"</h1>
+    </div>
+
+    <div class="container">
+        <h1>Simulate Your Post</h1>
+        <button id="clearBtn" class="clear-btn" style="display: none;">&#10006;</button>
+        <textarea id="post" placeholder="Write your post or status here..."></textarea>
+        <button id="submitBtn">Submit</button>
+
+        <div class="progress-container">
+            <span class="icon">👍</span>
+            <div class="progress-bar" id="likes">
+                
+                <div></div>
+            </div>
+            <span id="likesCount">0</span> <!-- Like count display -->
+        </div>
+            
+
+        <div class="progress-container">
+            <span class="icon">💬</span>    
+            <div class="progress-bar" id="comments">
+
+                <div></div> 
+        </div>
+        <span id="commentsCount">0</span> <!-- Comment count display -->
+    </div>
+        
+
+        <div class="progress-container">
+            <span class="icon">🔄</span>
+            <div class="progress-bar" id="shares">
+
+                <div></div>
+            </div>
+            <span id="sharesCount">0</span> <!-- Share count display -->
+
+        </div>
+    
+
+
+        <div class="mock-comments" id="mock-comments">
+            <h3>Comments</h3>
+        </div>
+
+        <div class="emojis" id="emojis">
+            <span>😊</span><span>😐</span><span>😟</span>
+        </div>
+    </div>
+
+    <script src="./script.js"></script>
+</body>
+</html>

@@ -1,0 +1,128 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling with Multicolor Gradient */
+body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(120deg, #0f0c29, #302b63, #24243e);
+    background-size: 400% 400%;
+    animation: gradientAnimation 10s ease infinite;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; /* Stack elements vertically */
+    height: 100vh;
+}
+
+@keyframes gradientAnimation {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+/* Slogan Box Styling */
+.slogan-box {
+    text-align: center; /* Center text for slogan */
+    margin-bottom: 20px; 
+}
+
+.slogan-box h1 {
+    font-size: 2.5rem; /* Increased font size for visibility */
+    text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;
+}
+
+/* Container Styling */
+.container {
+    text-align: center;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    padding: 30px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+    max-width: 500px;
+    width: 90%;
+}
+
+/* Input Field Styling */
+textarea {
+    width: calc(100% - 30px); /* Adjusted for padding */
+    height: 150px; /* Increased height for larger textarea */
+    padding: 15px;
+    border-radius: 5px;
+    border: none;
+    background: rgba(255, 255, 255, 0.2); /* Slightly darker for contrast */
+    color: #ffffff; /* Text color */
+}
+
+textarea::placeholder {
+   color: #ffffff; /* White placeholder color */
+   opacity: .7; /* Slightly transparent */
+}
+
+textarea:focus {
+   outline:none; 
+}
+
+/* Button Styling */
+button {
+   margin-top :20px; 
+   padding :10px; 
+   font-size :1rem; 
+   border:none; 
+   border-radius :5px; 
+   background :linear-gradient(90deg, #ff8a00, #e52e71); 
+   color :#ffffff; 
+   cursor:pointer; 
+   text-transform :uppercase; 
+   letter-spacing :2px; 
+}
+
+button:hover {
+   transform :scale(1.1); 
+}
+
+/* Progress Bar Styling */
+.progress-container {
+   display:flex; 
+   align-items:center; 
+   margin-top :20px; 
+}
+
+.progress-bar {
+   flex-grow :1; 
+   background :rgba(255,255,255,.1); 
+   border-radius :10px; 
+   overflow:hidden; 
+   height :20px; 
+}
+
+.progress-bar div {
+   height :100%; 
+   width :0%; 
+   background :linear-gradient(90deg, #00f260, #0575e6); 
+   transition :width .5s ease; 
+}
+
+/* Mock Comments Area */
+.mock-comments {
+   text-align:left; 
+   margin-top :20px; 
+   padding :15px; 
+   background :rgba(255,255,255,.1); 
+   border-radius :10px; 
+}
+
+.mock-comments span {
+   display:block; 
+}
+
+/* Emoji Section */
+.emojis {
+   margin-top :20px; 
+   font-size :2rem; 
+}
